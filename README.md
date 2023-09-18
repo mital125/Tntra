@@ -1,6 +1,7 @@
 # Tntra Technical QA
 
  Technical Questions:
+ 
 **Problem 1: Program to count occurrences of a given character in a string.**
 
  Count character 'e' in the below string.
